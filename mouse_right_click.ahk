@@ -1,4 +1,4 @@
-LButton::
+RButton::
     while GetKeyState("rbutton", "P")
     {
         Send {rbutton}
